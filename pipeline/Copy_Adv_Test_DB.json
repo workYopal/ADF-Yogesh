@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "Copy_Adv_Test_DB",
 	"properties": {
 		"activities": [
 			{
