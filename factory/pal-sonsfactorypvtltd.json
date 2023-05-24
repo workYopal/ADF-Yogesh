@@ -1,0 +1,9 @@
+{
+	"name": "pal-sonsfactorypvtltd",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6aa5d47d-bff0-4bfa-aabd-63ba75b3ca93",
+		"tenantId": "55b5d69f-7ef1-44b7-a90e-c2beea35fc85"
+	}
+}
